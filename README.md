@@ -14,6 +14,12 @@ Projeto simples que permite calcular o IMC com base no peso (kg) e altura (m), e
 
 ---
 
+## Prévia
+
+<img width="617" height="612" alt="image" src="https://github.com/user-attachments/assets/0ca9afd0-a154-4b72-9010-56ddff380311" />
+
+---
+
 ##  Funcionalidades
 
 - Input para peso e altura com validação básica do formato
